@@ -1,0 +1,6 @@
+C:\Users\Tanveer Hoque\Google Drive\Programming\Uri\C#\Beginner\1001\1001\bin\Debug\1001.exe.config
+C:\Users\Tanveer Hoque\Google Drive\Programming\Uri\C#\Beginner\1001\1001\obj\Debug\1001.csprojResolveAssemblyReference.cache
+C:\Users\Tanveer Hoque\Google Drive\Programming\Uri\C#\Beginner\1001\1001\bin\Debug\1001.exe
+C:\Users\Tanveer Hoque\Google Drive\Programming\Uri\C#\Beginner\1001\1001\bin\Debug\1001.pdb
+C:\Users\Tanveer Hoque\Google Drive\Programming\Uri\C#\Beginner\1001\1001\obj\Debug\1001.exe
+C:\Users\Tanveer Hoque\Google Drive\Programming\Uri\C#\Beginner\1001\1001\obj\Debug\1001.pdb
