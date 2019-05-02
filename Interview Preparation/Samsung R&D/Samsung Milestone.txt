@@ -1,0 +1,19 @@
+a. Recursion (Brute Force):
+	i. Permutation: O(n!) solution to propblems.
+	ii. Combination: O(nCr) solution to problems.
+	iii. Subset O(2^n) solution to problems
+	iv. Simulation: Variable time complexity
+		1. Board Game Simulation
+		2. Job Scheduling simulation
+		3. Rotating/Reflecting/Copying 2D array simulation
+
+b. Graphs:
+	i. Graphs represented with 2D array
+	ii. DFS
+	iii. BFS: Queue implementation might be required
+
+c. Basic algorithms:
+	i. O(n^2) array sorting (quick sort)
+	ii. Queue/Stack Data Structures
+	iii. Successive Sums
+	iv. Any Algorithms you can find whic are not hard to implement or do not require any concept
