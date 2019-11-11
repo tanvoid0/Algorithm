@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/tanveer/Workspace/Algorithm/Hacker Rank/Samsung R&D/Interview Part 2.2/main.cpp
+iostream
+-
+cstdio
+-
+
