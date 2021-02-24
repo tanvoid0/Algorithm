@@ -1,30 +1,30 @@
-#include <bits/stdc++.h>
+#include <stdio.h>
+#include <math.h>
+#include <iostream>
 
-int main()
-{
-	int ara[5][5] = {						
-					{1, 4, 5, 16, 17},
-					{2, 3, 6, 15, 18},
-					{9, 8, 7, 14, 19},
-					{10, 11, 12, 13, 20},
-					{25, 24, 23, 22, 21}
-				};
+void swap (int *a, int *b){
+	a = *a + *b;
+	b = a - b;
+	a = a - b;
+}
 
-	int t,n;
+int main() {
+	freopen("1008.in.txt", "r", stdin);
+	long long int n,t,j=0;
 	scanf("%d", &t);
-	for(int i=0; i<t; i++){
-		scanf("%d", &n);
-
-		for(int j=0; j<5; j++){
-			for(int k=0; k<5; k++){
-				if(ara[j][k] == n){
-					printf("Case %d: %d %d\n", i+1, k+1, j+1);
-					break;
-				}
-					
-			}
+	while(t--){
+		scanf("%d",&n);
+		long long int sq = ceil(sqrt(n));
+		long long int r = sq * sq - n;
+		long long int x, y;
+		if(r<sq){
+			y = r+1;
+			x = sq;
+		} else {
+			x = 2 * sq - r - 1;
+			y = sq;
 		}
+		if( sq & 1) swap(x,y);
+		printf("case %lld: %lld %lld\n", ++j, x,y);
 	}
-
-	return 0;
 }

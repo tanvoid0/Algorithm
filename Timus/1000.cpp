@@ -1,8 +1,13 @@
-#include <bits/stdc++.h>
-using namespace std;
+// Accepted
+// exec time 0.001
+// memory 124 kb
+
+#include <stdio.h>
+
 int main(){
+	freopen("1000.in.txt", "r", stdin);
 	int a,b;
-	cin >> a >> b;
-	cout << a+b << endl;
+	scanf("%d %d", &a, &b);
+	printf("%d\n", a+b);
 	return 0;
 }
