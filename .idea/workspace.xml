@@ -1,50 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5f1511a6-1337-4445-a9ec-a10660d24f4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Algorithms/AppleAndOrange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Algorithms/BetweenTwoSets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Algorithms/Kangaroo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/6 p.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/9 p.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/Max Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/brackets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/castle test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/castle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/diwali.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/down.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/jar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/sherlock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 1/1.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 1/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 1/2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 1/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/30 Day Challenge/Day 9- Recursion.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/30 Day Challenge/Day 9- Recursion.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/30 Day Challenge/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Algorithms/AppleAndOrange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Algorithms/BetweenTwoSets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Algorithms/Kangaroo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Algorithms/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/Arrays Introduction.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/Arrays Introduction.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/Arrays Introduction.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/Basic Data Types.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/Basic Data Types.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/Basic Data Types.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/CamelCase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/CamelCase.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/CamelCase.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/Pointer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/Pointer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/Pointer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/C++/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Interview/1. Counting Valleys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Interview/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 1/1.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 1/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 1/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 1/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 1/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/3,cpp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/3,cpp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/6 p.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/9 p.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/Diwali.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/Diwali.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/Down to zero.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/Down to zero.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/Max Element.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/Max Element.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/Max Element.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/brackets.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/brackets.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/brackets.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/brackets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/castle test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/castle.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/castle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/diwali.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/down.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/e. Max Element.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/halloween.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/halloween.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/jar.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/jar.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/jar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/max stack.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/max stack.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/max stack.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/paper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/paper.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/queue.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/queue.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/sherlock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/sherlock.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/sherlock.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/sherlock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview 2/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/.idea/Interview Part 2.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/.idea/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/Classes and objects.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/Lower Bound-STL.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/Rectangle Area.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/3.15.3/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Interview_Part_2_2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/Interview_Part_2_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/Interview_Part_2_2.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/cmake-build-debug/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/Interview Part 2.2/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Samsung R&amp;D/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/SecondLarge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Time conversion.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/Tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/challenges/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/challenges/kangaroo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/challenges/mini-max-sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacker Rank/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Preparation/Samsung R&amp;D/Samsung Milestone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Preparation/Samsung R&amp;D/Samsung R&amp;D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Preparation/Samsung R&amp;D/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Preparation/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRBD/Codes/Balloon/balloon.c.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRBD/Codes/Balloon/balloon.exe.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRBD/Codes/Balloon/balloon_final.c.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRBD/Codes/Balloon/balloon_final.exe.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRBD/Codes/Balloon/balloon_input.txt.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRBD/Codes/Balloon/balloon_output.txt.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRBD/Codes/Balloon/balloon_practice.c.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRBD/Codes/Balloon/balloon_practice.exe.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRBD/Codes/Balloon/desktop.ini" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/queue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +191,7 @@
     <option name="width" value="970" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectId" id="1p4Uo8OC5cCZvRRPjtCWIUGjXv3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -88,79 +219,53 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\algo\Algorithm\HackerRank\Interview\CountingValleys" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.stack">
-    <configuration name="queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/queue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
+    <configuration name="Application" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.stack" />
-        <item itemvalue="Python.queue" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -173,6 +278,11 @@
       <updated>1556726726650</updated>
       <workItem from="1556726727979" duration="46000" />
       <workItem from="1556726892151" duration="788000" />
+      <workItem from="1614442028512" duration="232000" />
+      <workItem from="1614442267862" duration="2223000" />
+      <workItem from="1614504234682" duration="1079000" />
+      <workItem from="1614533264585" duration="1665000" />
+      <workItem from="1614542865613" duration="544000" />
     </task>
     <servers />
   </component>
@@ -207,11 +317,11 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$stack.coverage" NAME="stack Coverage Results" MODIFIED="1556727802027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms" />
-    <SUITE FILE_PATH="coverage/Algorithm$queue.coverage" NAME="queue Coverage Results" MODIFIED="1556727796743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Algorithms/queue.py">

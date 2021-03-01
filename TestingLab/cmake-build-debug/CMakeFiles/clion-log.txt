@@ -1,0 +1,4 @@
+C:\Users\tanvoid0\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6085.16\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Github\algo\Algorithm\TestingLab
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Github/algo/Algorithm/TestingLab/cmake-build-debug

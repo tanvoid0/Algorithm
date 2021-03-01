@@ -1,0 +1,40 @@
+#include <cstdio>
+#include <cstring>
+
+char *s;
+long long int n;
+int slen = 0;
+
+bool repeat_check(){
+	return false;
+	for(int i=0; i<strlen(s); i++){
+
+	}
+}
+
+long long int a_count(long long int cnt){
+	printf("len %s\n", slen);
+	return 0;
+//	if(strlen(s) == 1)
+//    	if(s[0] == 'a')
+//			return n;
+//		return 0;
+
+
+//    for(long long int i=0, j=0; i<n; i++, j++){
+//      if(s[j] == '\0') j =0;
+//      if(s[j] == 'a') a_count++;
+//    }
+//  }
+}
+
+int main(){
+  freopen("input.txt", "r", stdin);
+
+  scanf("%s", s);
+  scanf("%lld", &n);
+//  slen = strlen(s);
+
+  printf("%s %lld\n", s, n);
+//  printf("%lld\n", a_count(0));
+}
