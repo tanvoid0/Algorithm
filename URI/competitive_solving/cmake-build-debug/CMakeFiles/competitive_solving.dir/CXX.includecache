@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Github/algo/Algorithm/URI/competitive_solving/main.cpp
+iostream
+-
+cstdio
+-
+cmath
+-
+iomanip
+-
+cstring
+-
+ctime
+-
+

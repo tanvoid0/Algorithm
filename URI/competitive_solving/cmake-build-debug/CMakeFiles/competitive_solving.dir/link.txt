@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\competitive_solving.dir/objects.a
+D:\env\mingw-w64\mingw32\bin\ar.exe cr CMakeFiles\competitive_solving.dir/objects.a @CMakeFiles\competitive_solving.dir\objects1.rsp
+D:\env\mingw-w64\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\competitive_solving.dir/objects.a -Wl,--no-whole-archive -o competitive_solving.exe -Wl,--out-implib,libcompetitive_solving.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\competitive_solving.dir\linklibs.rsp

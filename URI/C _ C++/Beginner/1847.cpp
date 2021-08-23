@@ -1,31 +1,74 @@
-//10% wrong answer
+/**
+ * Accepted
+ */
+
 #include <iostream>
+#include <cstdio>
+#include <cmath>
+#include <iomanip>
+#include <cstring>
+
+#define MAX 1000
 
 using namespace std;
 
-void cm(int a, int b, int c);
-
-int main()
-{
-    int A,B,C;
-
-    cin >> A >> B >> C;
-    cm(A,B,C);
-
-    return 0;
-}
+class Solve {
+public:
+  string input;
+  int scream = 0;
+  int total = 0;
+  int x,y,z;
 
 
-void cm(int a, int b, int c)
-{
-    int x=0;
+  void solve(int i, int j) {
+  }
 
-        if((a-b) > (b-c))
-            x=1;
+  void readcase() {
+//    getline(cin, input);
+    cin >> x >> y >> z;
+  }
 
-        if(x==1)
-            cout << ":)" << endl;
-        else
-            cout << ":(" << endl;
+  int binary(char ch) {
+    return ch == '-'? 0 : 1;
+  }
 
+  void solvecase() {
+    if(x>y) {
+      if(y<=z){
+        cout << ":)";       // 1. x>y<z
+      } else if((x-y) > (y-z)) {
+        cout << ":)";       // 5. x>y>z && (x-y>y-z)
+      } else {
+        cout << ":(";       // 6. x>y>z && (x-y<=y-z)
+      }
+    }
+    else if(x<y) {
+      if(y>=z){
+        cout << ":(";       // 2. x<y>=z
+      }
+      else if(y-x > z-y){
+        cout << ":(";        // 3. x<y && (y-x) > (z-y)
+      } else{
+        cout << ":)";       // 4. x>y && y-x <= z-y
+      }
+    }
+    else if(x == y) {
+      if(y < z ){
+        cout << ":)";
+      } else {
+        cout << ":(";
+      }
+    }
+    cout << endl;
+  }
+
+  void printcase() {
+    cout << total << endl;
+  }
+} solve;
+
+int main() {
+  int num;
+  solve.readcase();
+  solve.solvecase();
 }

@@ -1,0 +1,3 @@
+D:/Github/algo/Algorithm/URI/competitive_solving/cmake-build-debug/CMakeFiles/competitive_solving.dir
+D:/Github/algo/Algorithm/URI/competitive_solving/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github/algo/Algorithm/URI/competitive_solving/cmake-build-debug/CMakeFiles/rebuild_cache.dir
